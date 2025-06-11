@@ -3,12 +3,15 @@ layout: default
 title: "About Me"
 ---
 
-Hi, I’m Ahmet.
+# 👤 About Ahmet
 
-- 🎓 Mathematics background  
-- 🇩🇪 Living in Germany since 2017  
-- 🛡 1-year accelerated cybersecurity training  
-- 💼 CompTIA Security+ certified  
-- 🤖 Heavy AI user (ChatGPT+, Gemini, Monica)  
-- 🐧 Working toward full DevSecOps proficiency  
-- 📣 Previously managed two Twitter accounts with over 1M followers  
+- 🇩🇪 Living in Germany since 2018  
+- 🎓 Background in Mathematics (and Turbo Pascal roots)  
+- 🛡 CompTIA Security+ Certified (valid 1 more year)  
+- 💻 Completed 1-year intensive cybersecurity training  
+- ⚙️ Building DevSecOps skills: CI/CD, Docker, Kubernetes, Trivy, IAM  
+- 🤖 Using ChatGPT+, Gemini Pro, and Monica Plus daily to learn  
+- 🐦 Former owner of 2 Twitter accounts totaling 1M+ followers (entertainment-focused)  
+- 🧠 Google Ads (100+ hours certified training), SEO, and content strategy experienced  
+- 🌐 Managing own domain and website for 5+ years  
+- 🔡 German: B2 passive, A2-B1 speaking  

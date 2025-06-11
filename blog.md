@@ -1,41 +1,38 @@
 ---
 layout: default
-title: "My Blog"
+title: "Blog"
 ---
 
-# 📓 Blog
+# 📓 DevSecOps Learning Blog
 
-Welcome to my technical blog!  
-I use this space to reflect on my DevSecOps learning journey, especially how I use AI tools like ChatGPT+, Gemini Pro, and Monica to build and secure software projects.
-
----
-
-## 🚀 [AI destekli ilk projem: Güvenli Not Defteri](https://github.com/atpdevsecops/guvenli-not-defteri)
-
-I built a secure note-taking app using:
-- Flask
-- GitHub Actions for CI/CD
-- Trivy for container scanning
-- Docker
-
-Most of the logic was written with the help of ChatGPT+, and I learned the fundamentals of secure pipeline design without writing too much code myself.
+Welcome to my blog. I use this space to reflect on my progress, document my process, and share how I use AI tools to accelerate my learning in the DevSecOps field.
 
 ---
 
-## 🤖 Yapay zekâ ile öğrenmek bana neler kazandırdı?
+## 🚀 First Project: Secure Note App
 
-- Karmaşık konuları hızlıca sadeleştirme
-- Kodları anlamadan önce *amaçlarını* kavrama
-- “Bunu ben de yapabilirim” cesareti
-
----
-
-## 📅 Planladığım yazılar
-
-- GitHub Actions ile ilk güvenlik taraması
-- Kubernetes'e geçiş notlarım
-- Trivy vs Snyk: Hangisi, ne zaman?
+My first project using Flask, Docker, and GitHub Actions with Trivy scanning.  
+I built it almost entirely using AI assistance and learned:
+- How CI/CD pipelines are structured
+- What Trivy does and how it scans containers
+- How secrets and vulnerabilities are caught during builds
 
 ---
 
-Stay tuned. I’m updating this page regularly 🚧  
+## 🤖 How AI Helps Me Learn
+
+As a beginner in coding, AI tools are my daily companion:
+- ChatGPT+ explains every line of code  
+- Gemini Pro summarizes technical docs  
+- Monica helps manage technical notes and tasks  
+
+---
+
+## 🧠 What’s Next?
+
+- Integrating Snyk into CI/CD  
+- Learning Kubernetes (with minikube)  
+- Writing about Terraform and IAM practices  
+- Improving English & German tech vocabulary  
+
+Stay tuned!

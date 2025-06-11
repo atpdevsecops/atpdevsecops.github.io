@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Welcome"
+title: "Ahmet – DevSecOps Portfolio"
 ---
 
 # 👋 Welcome to My DevSecOps Portfolio
 
-I’m Ahmet. A DevSecOps enthusiast living in Germany, with a background in mathematics, cybersecurity, and content creation.
+Hi, I'm Ahmet. A security-focused DevOps learner living in Germany, with a background in mathematics and a passion for cybersecurity and automation.
 
-🔐 Certified in CompTIA Security+  
-⚙️ Experienced with GitHub Actions, Trivy, Docker  
-🤖 Learning with ChatGPT+, Gemini Pro, Monica Plus  
-🔗 [Projects](/projects.md)  
-🔗 [About Me](/about.md)
-📓 [Blog](blog.md)
+🛡 CompTIA Security+ Certified  
+🔐 1 Year of Accelerated Cybersecurity Training  
+🚀 Using ChatGPT+, Gemini Pro, Monica Plus for AI-supported development  
+🌍 Building secure CI/CD pipelines with GitHub Actions, Docker, Trivy
 
-
+🔗 [Projects](projects.md)  
+🔗 [About Me](about.md)  
+🔗 [Blog](blog.md)

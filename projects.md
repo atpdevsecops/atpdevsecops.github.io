@@ -1,14 +1,19 @@
 ---
 layout: default
-title: "Welcome"
+title: "Projects"
 ---
 
-# 👋 Welcome to My DevSecOps Portfolio
+# 🛠️ Projects
 
-I’m Ahmet. A DevSecOps enthusiast living in Germany, with a background in mathematics, cybersecurity, and content creation.
+## 🔐 Secure Note App – "Güvenli Not Defteri"
 
-🔐 Certified in CompTIA Security+  
-⚙️ Experienced with GitHub Actions, Trivy, Docker  
-🤖 Learning with ChatGPT+, Gemini Pro, Monica Plus  
-📓 [My Projects](projects.md)  
-🧠 [About Me](about.md)
+A simple Flask-based web app developed with the help of AI tools to learn and apply DevSecOps practices.
+
+**Highlights:**
+- CI/CD: GitHub Actions  
+- Container: Docker  
+- Security: Trivy scanning  
+- Deployment-ready  
+- AI-assisted coding (very little manual code written)
+
+🔗 [GitHub Project Link](https://github.com/atpdevsecops/guvenli-not-defteri)

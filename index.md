@@ -10,5 +10,6 @@ I’m Sefer. A DevSecOps enthusiast living in Germany, with a background in math
 🔐 Certified in CompTIA Security+  
 ⚙️ Experienced with GitHub Actions, Trivy, Docker  
 🤖 Learning with ChatGPT+, Gemini Pro, Monica Plus  
-📓 [My Projects](projects.md)  
-🧠 [About Me](about.md)
+🔗 [Projects](/projects.md)  
+🔗 [About Me](/about.md)
+
